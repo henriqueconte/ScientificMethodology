@@ -1,7 +1,7 @@
 # ScientificMethodology
 Scientific Methodology and Experimental Evaluation course from Distributed and Cloud Computing Master's at Grenoble INP. 
 
-### Homeworks (1)
+### Homeworks (1) - Introduction to the scientific method and computer science epistemology | Presentation of the lecture
 
 [ x ] Read Popper’s text   
 [ x ] Indicate your name on the Pad. You will use to collaborate and fill in all the information you can.  
@@ -13,8 +13,13 @@ Scientific Methodology and Experimental Evaluation course from Distributed and C
 [ x ] Report the URL of your git project, your mattermost ID on the Pad.  
 
 
-### Homeworks (2)
+### Homeworks (2) - Visualization and Exploratory Data Analysis | Descriptive statistics; Correlation, causality, and spurious correlation
 
 [ x ] Start learning R by reading this R crash course for computer scientists (Rmd sources) (slides 14-20)  
 [ x ] Complete the two data analysis/visualization in a clean R notebook and upload in your github/gitlab space. Make sure we can easily find it when landing on your page. :)  
 [ x ] MOOC: Complete exercise 5 of module 2 (Challenger). Write a short text explaining what is good and wrong about this document (you may want to provide an updated version of the notebook) and upload on your github/gitlab space.  
+
+
+### Homeworks (3) - Data curation with the tidyverse | Data management 1 (Data Management Plans)
+
+
