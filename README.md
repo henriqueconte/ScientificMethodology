@@ -16,5 +16,5 @@ Scientific Methodology and Experimental Evaluation course from Distributed and C
 ### Homeworks (2)
 
 [ x ] Start learning R by reading this R crash course for computer scientists (Rmd sources) (slides 14-20)  
-[ ] Complete the two data analysis/visualization in a clean R notebook and upload in your github/gitlab space. Make sure we can easily find it when landing on your page. :)  
-[ ] MOOC: Complete exercise 5 of module 2 (Challenger). Write a short text explaining what is good and wrong about this document (you may want to provide an updated version of the notebook) and upload on your github/gitlab space.  
+[ x ] Complete the two data analysis/visualization in a clean R notebook and upload in your github/gitlab space. Make sure we can easily find it when landing on your page. :)  
+[ x ] MOOC: Complete exercise 5 of module 2 (Challenger). Write a short text explaining what is good and wrong about this document (you may want to provide an updated version of the notebook) and upload on your github/gitlab space.  
