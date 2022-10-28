@@ -25,4 +25,9 @@ Scientific Methodology and Experimental Evaluation course from Distributed and C
 [ x ] See previous homeworks and provide links in the Pad!  
 [ x ] First name/last name analysis in a computational document.  
 
+### Homeworks (4) - [JMV, CC] Beautiful Viz with ggplot | Data management 2  
+
+[ ] MOOC: Start the peer evaluated exercise.  
+
+
 
