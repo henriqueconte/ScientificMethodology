@@ -27,7 +27,5 @@ Scientific Methodology and Experimental Evaluation course from Distributed and C
 
 ### Homeworks (4) - [JMV, CC] Beautiful Viz with ggplot | Data management 2  
 
-[ ] MOOC: Start the peer evaluated exercise.  
-
 
 
