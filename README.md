@@ -23,6 +23,6 @@ Scientific Methodology and Experimental Evaluation course from Distributed and C
 ### Homeworks (3) - Data curation with the tidyverse | Data management 1 (Data Management Plans)
 
 [ x ] See previous homeworks and provide links in the Pad!  
-[ ] First name/last name analysis in a computational document.  
+[ x ] First name/last name analysis in a computational document.  
 
 
