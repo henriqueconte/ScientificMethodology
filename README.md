@@ -25,12 +25,16 @@ Scientific Methodology and Experimental Evaluation course from Distributed and C
 [ x ] See previous homeworks and provide links in the Pad!  
 [ x ] First name/last name analysis in a computational document.  
 
-### Homeworks (4) - [JMV, CC] Beautiful Viz with ggplot | Data management 2  
+### Homeworks (4) - Beautiful Viz with ggplot | Data management 2  
 
 [ x ] Use good naming and organization conventions in your repos.  
 [ ] See previous homeworks: use dplyr and ggplot for the first/last name analysis! Complete challenger if you haven’t done so.  
 [ ] If you have time, git a try to git-annex but no worry if you can’t. What’s important is that you know it exists, what it allows to do, and that it is not so difficult to use.  
 [ x ] Engage in module 3 of the MOOC and chood a topic for the peer evaluation (final task of module 3).  
+
+
+### Homework (5) - Measurement and tracing
+
 
 
 
