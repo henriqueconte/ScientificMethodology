@@ -35,11 +35,26 @@ Scientific Methodology and Experimental Evaluation course from Distributed and C
 
 ### Homework (5) - Measurement and tracing
 
-- No homework so far  
+[ x ] Continue the hands-on, improve the experiment design and the analysis  
 
 ### Homework (6) - Clearly defining the experiment and having the right tools to analyze it
 
-- No homework so far
+[ IN PROGRESS ] Write an in-depth report using a computational document with a decent data management/statistical treatment (i.e., with confidence intervals or regions!). You have two options:  
+
+* Use the quicksort or the Fitt’s law hands on.  
+  - Formally state the question, identify parameters, propose an evaluation protocol with at least two configurations, perform a proper statistical analysis, provide interpretations and conclude if it is possible. It you cannot conclude, explain why. In any case discuss possible further investigations.  
+
+* Pick one of the seven subjects proposed in the peer evaluation of the MOOC. Subject 2 is too easy and is not an option.
+  - Subject 1: CO2 concentration in the atmosphere since 1958
+  - Subject 2: purchasing power of English workers from the 16th to the 19th century
+  - Subject 3: the London cholera epidemic of 1854
+  - Subject 4: latency and capacity estimation for a network connection from asymmetric measurements
+  - Subject 5: Dialogue analysis in L’Avare of Molière
+  - Subject 6: Around Simpson’s Paradox
+  - Subject 7: The SARS-CoV-2 (Covid-19) epidemi
+
+Chosen: In-depth report on "Around Simpson’s Paradox".
+
 
 
 
