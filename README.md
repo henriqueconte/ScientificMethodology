@@ -57,7 +57,14 @@ Chosen: In-depth report on "Around Simpson’s Paradox".
 
 ### Homework (7) - The linear model
 
-* No homework so far
+* No homework so far  
+
+
+### Homework (8) - Multiple testing and ANOVA (p-hacking)
+
+* No homework so far  
+
+
 
 
 
