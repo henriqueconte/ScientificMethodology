@@ -64,7 +64,21 @@ Chosen: In-depth report on "Around Simpson’s Paradox".
 
 * No homework so far  
 
+### Homework (9) - Scientific integrity  
 
+* No homework so far
+
+### Homework (10) - A Bayesian perspective on regularization and model selection + Sequential DoE (screening, LHS, D-opt, …)
+
+[  ] Start playing with this DoE Shiny Application: https://adaphetnodes.shinyapps.io/design_of_experiments/?abc1111 where you should replace abc1111 by your own id (pick one on the pad by writing your name in front of it).  
+
+### Homework (12) - Incremental DoE: A Bayesian perspective, Reinforcement Learning and Surrogates (Bandit, GP)
+
+* No homework so far
+
+### Homework (11) - Ethics (AI and humain, climate change, societal challenges) 
+
+[  ] Short presentation about Scientific article reading and writing (Galactica)  
 
 
 
