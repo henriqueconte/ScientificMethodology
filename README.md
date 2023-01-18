@@ -78,7 +78,7 @@ Chosen: In-depth report on "Around Simpson’s Paradox".
 
 ### Homework (12) - Ethics (AI and humain, climate change, societal challenges) 
 
-[  ] Short presentation about Scientific article reading and writing (Galactica)  
+[ x ] Short presentation about Scientific article reading and writing (Galactica)  
 
 
 
